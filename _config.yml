@@ -3,7 +3,7 @@ title_left    : "P"
 title_right   : "S" # default: ""
 description   : "Vegan,Cyber Security Consultant,Researcher."
 keywords      : "Peter, Skaronis, Cyber, Security, Vegan, Meditation"
-url           : https://peterskaronis.com # site url
+url           : https://blog.peterskaronis.com # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
