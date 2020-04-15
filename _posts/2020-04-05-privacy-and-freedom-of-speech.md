@@ -10,5 +10,6 @@ keywords: "privacy"
 
 In light of recent events, there is a precedent being set for freedom of speech and personal freedom. So I have decided to use products that respect your privacy and freedom of speech.
 
-- *Write.as*
+- **Write.as**
+
 This is an amazing project focused on privacy and anonymous writing. I will be using Write.as for blogging at [privacy.peterskaronis.com](Peter Skaronis)
