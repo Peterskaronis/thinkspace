@@ -12,7 +12,7 @@ In light of recent events, there is a precedent being set for freedom of speech 
 
 - **Write.as**
 
-This is an amazing project focused on privacy and anonymous writing. 
+This is an amazing project focused on privacy and anonymous writing. I have setup an example blog [here](https://write.as/peter-skaronis/).
 
 - **Reading.Supply**
 
